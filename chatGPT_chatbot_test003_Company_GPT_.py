@@ -96,7 +96,7 @@
 #         st.write(f"{message['role'].capitalize()}: {message['content']}")
 
 ## 일단 1차버전...제대로 대화...
-openai # streamlit
+openai
 
 import openai
 import streamlit as st
